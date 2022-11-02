@@ -1,0 +1,21 @@
+#app{
+    background-color: hotpink;
+}
+#game{
+    background-color: orchid;
+}
+#chatbot{
+    background-color: deepskyblue;
+}
+body{
+    text-align:center;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+img{
+    width:450px;
+}
